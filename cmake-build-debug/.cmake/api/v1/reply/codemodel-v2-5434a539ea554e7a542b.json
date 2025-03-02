@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "CS210PA1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CS210PA1-Debug-119604a269da4747f8ca.json",
+					"jsonFile" : "target-CS210PA1-Debug-9f3972af8f76e3de9900.json",
 					"name" : "CS210PA1",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/manjumuralidharan/CLionProjects/CS210PA1/cmake-build-debug",
-		"source" : "/Users/manjumuralidharan/CLionProjects/CS210PA1"
+		"build" : "/Users/jaeyoonlee/CLionProjects/programming-assignment-1-jlee6128/cmake-build-debug",
+		"source" : "/Users/jaeyoonlee/CLionProjects/programming-assignment-1-jlee6128"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 7
 	}
 }
